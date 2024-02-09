@@ -1,13 +1,15 @@
 # Call Centre Trends-Data Analysis
 
-## Data Analysis Dashboard:
-#### Analyzing Call Centre data to discover and visualize customer and agent interactions, examining overall customer satisfaction, rates of calls answered and abandoned, and call distribution over time.
-#
+
+#### 
+### Objective: Utilize call center data to develop a comprehensive dashboard aimed at extracting valuable insights. Key objectives include identifying trends and patterns within the data, establishing key performance indicators (KPIs) such as call abandonment rates, resolution metrics, and assessing agent performance metrics.
+# 
 ### Tools Used:
 ##### > Power BI
 ##### > MS Excel
 #
 #
+## Data Analysis Dashboard
 ![Model 1 ROC AUC Curve](https://imgur.com/tuh9XjL.png)
 #
 #### Findings:
