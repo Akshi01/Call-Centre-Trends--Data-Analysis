@@ -2,7 +2,8 @@
 
 
 #### 
-### Objective: Utilize call center data to develop a comprehensive dashboard aimed at extracting valuable insights. Key objectives include identifying trends and patterns within the data, establishing key performance indicators (KPIs) such as call abandonment rates, resolution metrics, and assessing agent performance metrics.
+### Objective: 
+#### Utilize call center data to develop a comprehensive dashboard aimed at extracting valuable insights. Key objectives include identifying trends and patterns within the data, establishing key performance indicators (KPIs) such as overall customer satisfaction rate, average call duration and average call answering speed.
 # 
 ### Tools Used:
 ##### > Power BI
