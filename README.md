@@ -4,8 +4,8 @@
 #### Analyzing Call Centre data to analyze and visualize customer and agent interactions, examining overall customer satisfaction, rates of calls answered and abandoned, and call distribution over time.
 ###
 #### Tools Used:
-> Power BI
-> MS Excel
+##### -> Power BI
+##### -> MS Excel
 ###
 ###
 ###
